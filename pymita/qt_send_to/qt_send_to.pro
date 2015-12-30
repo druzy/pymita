@@ -1,0 +1,2 @@
+FORMS += \
+    groupbox.ui
